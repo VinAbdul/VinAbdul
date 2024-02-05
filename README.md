@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VinAbdul
+- 👀 I’m interested in chess, music, tech, and literature.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing, yet.
+- 📫 How to reach me: You can't.
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I use Arch BTW.
